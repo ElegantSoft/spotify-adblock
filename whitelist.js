@@ -1,6 +1,13 @@
 const whitelist = [
   "ap.spotify.com", // audio (access point)
+  "login*.spotify.com",
+  "*client.spotify.com",
+  "*dealer.spotify.com",
+  "api.spotify.com",
+  "api-partner.spotify.com",
+  "*spotify-com.akamaized.net",
   "*.ap.spotify.com", // resolved access points
+  "ap-*.spotify.com", // resolved access points
   "apresolve.spotify.com", // access point resolving
   "audio-fa.scdn.co", // audio
   "audio-sp-*.pscdn.co", // audio
