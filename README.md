@@ -15,7 +15,7 @@ Configure it as shown:
 
 Run the following commands in terminal to clone and install. 
 ```
-> git clone https://github.com/AnanthVivekanand/spotify-adblock.git && cd spotify-adblock
+> git clone https://github.com/ElegantSoft/spotify-adblock.git && cd spotify-adblock
 ...
 > npm i
 ...
