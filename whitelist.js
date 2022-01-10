@@ -34,7 +34,7 @@ const whitelist = [
   "spclient.wg.spotify.com", // ads/tracking (blocked in blacklist), radio, recently played, friend activity,...
   "t.scdn.co", // background images
   "thisis-images.scdn.co", // 'this is' playlists images
-  "video-fa.scdn.co" // videos
+  "video-fa.scdn.co", // videos
 ];
 
 module.exports = whitelist;
